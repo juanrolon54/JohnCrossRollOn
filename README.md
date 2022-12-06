@@ -2,7 +2,7 @@
 ## Full-Stack Developer
 
 I'm a developer trying to kickstart it's career. I'm always looking for new and exciting challenges.
-### Myself
+## Myself
 I'm quite passionate about coding. Problem solving is the task that I personally enjoy the most.
 I don't care what technology we use, we'll get the best out of it.
 
