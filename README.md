@@ -11,7 +11,7 @@ I'm currently learning firebase and flowbite to develop overall better full-stac
 ## Tech Stack
 During the soyHenry bootcamp I learned the 'PERN' stack (PostgreSQL, Express, React, Node).
 Rather sooner than later I learned about this amazing platform called Firebase, which offers backend-as-a-service (BAAS).
-Another discovery I just can't stop using is tailwindCSS and flowbite-react. This two libraries make UI design a breeze.
+Another discovery I just can't stop using is tailwindCSS and daisyUI. This two libraries make UI design a breeze.
 And well, some other not so amazing libraries, such as Redux and Bootstrap. Don't get me wrong, they are ~not really~ great.
 
 ### Aspiration
